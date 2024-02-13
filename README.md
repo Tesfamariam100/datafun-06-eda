@@ -28,7 +28,8 @@ This project uses the following external modules:
 A virtual environment is recommended to manage these dependencies.
 
 ## Dataset Description
-
+This is a link to my data:
+https://github.com/Tesfamariam100/datafun-06-eda/blob/main/crop_production.csv 
 The dataset used for this project contains information about agricultural crop yield from different countries over several years. It includes the following columns:
 
 ## Getting Started
@@ -48,7 +49,6 @@ Follow these steps to set up the project on your local machine:
     ```bash
     .\.venv\Scripts\Activate
     ```
-
 2. Install all required packages into your local project virtual environment:
 
     ```bash
