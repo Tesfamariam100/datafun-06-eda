@@ -48,7 +48,6 @@ Follow these steps to set up the project on your local machine:
     ```bash
     .\.venv\Scripts\Activate
     ```
-
 2. Install all required packages into your local project virtual environment:
 
     ```bash
