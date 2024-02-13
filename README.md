@@ -1,11 +1,13 @@
 # datafun-06-eda
+
+This repository contains an Exploratory Data Analysis (EDA) project for the Datafun-06 project. The project aims to analyze and explore agricultural crop yield data from various countries using Python, Jupyter Notebook, pandas, Seaborn, and other data analytics tools.
+
 ## Exploratory Data Analysis (EDA) Notebook set up
 
 This project aims to demonstrate skills in conducting EDA using Jupyter, pandas, Seaborn, and other popular data analytics tools.
 
-## Overview
-
-DataFun 06 is an opportunity to create a custom exploratory data analysis project using GitHub, Git, Jupyter, pandas, Seaborn, and other relevant modules.
+##  project Overview
+The goal of this project is to perform analysis of agricultural crop yield data and visualize insights derived from the dataset. The analysis includes examining trends, patterns, and relationships within the data to gain meaningful insights into crop yield variations across different countries and years.
 
 ### Deliverables
 
@@ -25,9 +27,9 @@ This project uses the following external modules:
 
 A virtual environment is recommended to manage these dependencies.
 
-## Objective
+## Dataset Description
 
-The objective of this project is to perform and publish a custom EDA project to demonstrate skills with Jupyter, pandas, Seaborn, and popular tools for data analytics. The notebook should tell a data story and visually present findings in a clear and engaging manner.
+The dataset used for this project contains information about agricultural crop yield from different countries over several years. It includes the following columns:
 
 ## Getting Started
 
