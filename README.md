@@ -99,3 +99,6 @@ git commit -m "Initial commit"
 
 # Push changes to GitHub
 git push origin main
+
+pip install pytest
+
