@@ -84,7 +84,34 @@ Follow these steps to set up the project on your local machine:
     *.ipynb_meta/
     ```
 
-5. Document the steps and commands in your README.md file.
+5. Project start
+
+### Exploratory Data Analysis (EDA) Steps
+The exploratory data analysis (EDA) process involves the following steps. 
+
+### Data Acquisition: 
+Load the dataset into a pandas DataFrame and inspect its structure.
+
+### Initial Data Inspection: 
+Examine the initial rows, shape, and data types of the DataFrame to understand its composition.
+
+### Initial Descriptive Statistics: 
+Compute descriptive statistics to summarize the numerical attributes of the dataset.
+
+### Initial Data Distribution for Numerical Columns:
+ Visualize the distribution of numerical columns using histograms to identify patterns and outliers.
+
+### Initial Data Distribution for Categorical Columns: 
+Explore the distribution of categorical variables to understand the frequency of different categories.
+
+### Initial Data Transformation and Feature Engineering: 
+Rename columns and add new features to enhance the dataset's readability and analytical value.
+
+### Initial Visualizations: 
+Create visualizations such as histograms, bar plots, and line plots to illustrate crop yield distributions, country-wise comparisons, and seasonal trends.
+
+### Exploring Crop Production Data:
+ An EDA Journey: Provide an overview of the EDA process and its goals, including loading and preprocessing data, performing exploratory analysis, visualizing crop yield, analyzing seasonal trends, and drawing conclusions for agricultural decision-making.
 
 ## Git Commands
 
